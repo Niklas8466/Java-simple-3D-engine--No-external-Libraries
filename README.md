@@ -1,7 +1,7 @@
 # My third try at creating a 3D renderer
-This project took roughly 5 weeks. I made everything from sratch with no external libraries to understand how 3d engines work.
-**No AI was used to write this code**
-**3D Models aren't made by me**
+This project took roughly 5 weeks. I made everything from sratch with no external libraries to understand how 3d engines work.<br>
+**No AI was used to write this code**<br>
+**3D Models aren't made by me**<br>
 Here are some pictures of the finished project:
 <img width="1415" height="889" alt="image" src="https://github.com/user-attachments/assets/6d1f7ec3-19a5-4383-8f1d-94dbc9eea1a0" />
 ![duck](https://github.com/user-attachments/assets/0db92f3d-40de-4183-96cb-4bf7185017b5)
