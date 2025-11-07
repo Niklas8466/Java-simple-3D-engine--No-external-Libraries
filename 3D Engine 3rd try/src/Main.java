@@ -11,10 +11,11 @@ public class Main {
         -z-buffer ✔
         -Outlines ✔
         -3d modells ✔
-        -Ebenen Test durchführen (Plane-Equation Test)
+        -Plane-Equation Test
     */
 
     public static void main(String[] args){
         new Engine.Engine().run();
     }
 }
+
