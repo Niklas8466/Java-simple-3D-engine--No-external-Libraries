@@ -9,7 +9,7 @@ Here is a picture of the finished project:
 - Camera rotation
 - Backface culling
 - Culling of negativ z-values
-- painters algorithm
+- Painters algorithm
 - Filled shapes
 - Shape outlines
 - 3D Models
@@ -17,3 +17,6 @@ Here is a picture of the finished project:
 ## How does it work
 - magic
 - math
+
+## know bugs
+- renderer messes up the triangle order with multiple objects too close to each other
