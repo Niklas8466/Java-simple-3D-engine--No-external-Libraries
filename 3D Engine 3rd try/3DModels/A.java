@@ -1,1 +1,0 @@
-3DModels/chess pieces finished.obj
